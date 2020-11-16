@@ -1,0 +1,83 @@
+[
+    {
+        "serialNumber" : "1",
+        "name" : "Rice",
+        "quantity" : "1",
+        "unit" : "kg",
+        "department": "food",
+        "notes" : "ponni rice"
+    },
+    {
+        "serialNumber" : "2",
+        "name" : "Onion",
+        "quantity" : "2",
+        "unit" : "kg",
+        "department": "food",
+        "notes" : "Big onion"
+    },
+    {
+        "serialNumber" : "3",
+        "name" : "Wheat",
+        "quantity" : "5",
+        "unit" : "kg",
+        "department": "food",
+        "notes" : "Aashirvad"
+    },
+    {
+        "serialNumber" : "4",
+        "name" : "Salt",
+        "quantity" : "1",
+        "unit" : "kg packet",
+        "department": "food",
+        "notes" : "Aashirvad" 
+    },
+    {
+        "serialNumber" : "5",
+        "name" : "Toor dal",
+        "quantity" : "1",
+        "unit" : "kg",
+        "department": "food",
+        "notes" : "BB Royal" 
+    },
+    {
+        "serialNumber" : "6",
+        "name" : "Carrot",
+        "quantity" : "2",
+        "unit" : "kg",
+        "department": "food",
+        "notes" : "Fresh only"  
+    },
+    {
+        "serialNumber" : "7",
+        "name" : "Note book",
+        "quantity" : "1",
+        "unit" : "number",
+        "department": "stationary",
+        "notes" : "ruled , classmates, 290pages"   
+    },
+    {
+        "serialNumber" : "8",
+        "name" : "Pen",
+        "quantity" : "2",
+        "unit" : "number",
+        "department": "stationary",
+        "notes" : "black , cello gripper" 
+    },
+    {
+        "serialNumber" : "9",
+        "name" : "Hand Wash",
+        "quantity" : "1",
+        "unit" : "number",
+        "department": "health",
+        "notes" : "bottle , dettol" 
+    },
+    {
+        "serialNumber" : "10",
+        "name" : "Hand Wash",
+        "quantity" : "1",
+        "unit" : "number",
+        "department": "health",
+        "notes" : "bottle , dettol" 
+    }
+
+]
